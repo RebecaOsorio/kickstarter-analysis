@@ -59,9 +59,10 @@ In the total Failed Outcomes Chart, we see that the failed Campaigns are almost 
 In *Outcomes Based on Goal*, I dont want to make any assumption based on the percentage of the plays that asked for a Goal greater than $25,000 because of the amount of Data we obtained after that Range - **less than 20 events can't tell a generalized result**. So we'll need more information about big plays that ask for fundings to truly tell what happens if we ask for more money.
 
 - What are some other possible tables and/or graphs that we could create?
+
 An important table to show Louise, is the Category and Subcategory Statistics. There, she can see that Plays is the most popular option and that it has the best outcomes.
 
 | Parent Categories | Subcategories |
 |--|--|
 | ![general_statistics_outcomes](https://user-images.githubusercontent.com/90414330/134754430-a9d5d610-53af-4285-ba9e-8e88ddbc1e76.png) | ![theater_statistics_outcomes](https://user-images.githubusercontent.com/90414330/134754431-f3543b94-192d-40b4-b750-32e9cf6bf1e0.png)
- |
+ 
