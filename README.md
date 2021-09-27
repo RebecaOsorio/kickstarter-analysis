@@ -41,15 +41,22 @@ One Challenge is to keep true the `COUNTIF`, you should verify at least 3 times 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 In the analysis we found out that **the most successful month was July**. Additional, in June we can see that the campaigns start to take off until August, giving the clue that the **plays launched in summer vacations are the most likely to have a successful outcome**. 
+
 We can also see that regardless the total amount of Theater Project launched, it seems like the failed projects keep in a range from 30 to 50.
 
 - What can you conclude about the Outcomes based on Goals?
+
 **If we want our Crowdfunding to succeed, regardless the country, we should ask for less than $10,000USD**. But if we Louise is felling conservative, she can ask up to $4,999USD.
+
 - What are some limitations of this dataset?
+
 **The principal limitation is the amount of data that was collected in 8 years**. 
+
 In the total Failed Outcomes Chart, we see that the failed Campaigns are almost constant every month, but we can't declare that the number will keep constant during the year because we don't have information about plays launched after May 2017. Unless we have had data until December 2017, we canot make some estimates about how many campaigns will fail during a month and I don't feel comfortable about cutting the information untill 2016 because we already have a small amount of records.
-In *Outcomes Based on Goal*, I dont want to make any assumption based on the percentage of the plays that asked for a Goal greater than $25,000 because of the amount of Data we obtained after that Range - less than 20 events can't tell a generalized result. So we'll need more information about big plays that ask for fundings to truly tell what happens if we ask for more money.
+
+In *Outcomes Based on Goal*, I dont want to make any assumption based on the percentage of the plays that asked for a Goal greater than $25,000 because of the amount of Data we obtained after that Range - **less than 20 events can't tell a generalized result**. So we'll need more information about big plays that ask for fundings to truly tell what happens if we ask for more money.
 
 - What are some other possible tables and/or graphs that we could create?
 An important table to show Louise, is the Category and Subcategory Statistics. There, she can see that Plays is the most popular option and that it has the best outcomes.
